@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://10.0.13.127/package/GoSwak.ipa</string>
+                    <string>http://10.0.13.127:8668/package/GoSwak.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
